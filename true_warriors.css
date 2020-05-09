@@ -1,0 +1,14 @@
+.jumbotron{
+	color:white;}
+	#content { text-align: center;
+	background-image: url(https://cdn.pixabay.com/photo/2020/03/21/07/48/epidemic-4952933_1280.jpg);}
+body{
+	background-size: cover;
+}
+#map{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:60%;
+}
