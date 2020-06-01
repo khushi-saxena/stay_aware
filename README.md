@@ -21,7 +21,7 @@ Project   includes:
  Precautions
  Helpline numbers and relevant website links
 
-WE HaVE alS0 InClUdEd…
+WE HaVE alS0 InClUdEd….
 
 Some Simple Ways To Spend Your Free Time During Coronavirus Lockdown
 "Prevention is better than cure" – The significance of this everlasting quote cannot be questioned. Especially, at a time when the whole world is fighting against the deadly coronavirus. 
